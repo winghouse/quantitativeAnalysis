@@ -1,0 +1,25 @@
+api:
+  # 币安-key
+  key: xxxxxx
+  # 币安-密钥
+  secret: xxxxxx
+
+custom:
+  # 代币
+  coin: BTCUSDT
+  # 时间间隔
+  timeslice: 15m
+  # 杠杆倍数
+  leverage_ratio: 8
+  # 凯莉公式中获胜的概率
+  kelly_win_rate: 0.6
+  # 凯莉公式-投资资金
+  investment_amount: 800
+  # 需要k线分析可视化的代币
+  kline_analysis_coin: BTCUSDT
+
+mysql:
+  host: localhost
+  user: root
+  password: root
+  database: biancebot

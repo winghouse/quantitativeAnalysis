@@ -1,0 +1,68 @@
+[
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'FDUSD',
+    'balance': '0.00000000',
+    'crossWalletBalance': '0.00000000',
+    'crossUnPnl': '0.00000000',
+    'availableBalance': '0.00000000',
+    'maxWithdrawAmount': '0.00000000',
+    'marginAvailable': True,
+    'updateTime': 0
+  },
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'BTC',
+    'balance': '0.00000000',
+    'crossWalletBalance': '0.00000000',
+    'crossUnPnl': '0.00000000',
+    'availableBalance': '0.00000000',
+    'maxWithdrawAmount': '0.00000000',
+    'marginAvailable': True,
+    'updateTime': 0
+  },
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'BNB',
+    'balance': '0.00000000',
+    'crossWalletBalance': '0.00000000',
+    'crossUnPnl': '0.00000000',
+    'availableBalance': '0.00000000',
+    'maxWithdrawAmount': '0.00000000',
+    'marginAvailable': True,
+    'updateTime': 0
+  },
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'ETH',
+    'balance': '0.00000000',
+    'crossWalletBalance': '0.00000000',
+    'crossUnPnl': '0.00000000',
+    'availableBalance': '0.00000000',
+    'maxWithdrawAmount': '0.00000000',
+    'marginAvailable': True,
+    'updateTime': 0
+  },
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'USDT',
+    'balance': '1611.45682287',
+    'crossWalletBalance': '1611.45682287',
+    'crossUnPnl': '-0.28532875',
+    'availableBalance': '1448.42225712',
+    'maxWithdrawAmount': '1448.42225712',
+    'marginAvailable': True,
+    'updateTime': 1726389114501
+  },
+  {
+    'accountAlias': 'FzoCsRsRmYTiuXTi',
+    'asset': 'USDC',
+    'balance': '0.00000000',
+    'crossWalletBalance': '0.00000000',
+    'crossUnPnl': '0.00000000',
+    'availableBalance': '0.00000000',
+    'maxWithdrawAmount': '0.00000000',
+    'marginAvailable': True,
+    'updateTime': 0
+  }
+]
